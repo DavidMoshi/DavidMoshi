@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DavidMoshi
-- 👀 I’m interested in health data exploration, analysis and predictive modelling using R 
-- 🌱 I’m currently learning epidemiology with personal interest in machine learning algorithms
-- 💞️ I’m looking to collaborate on health predictive modelling projects
+- 👀 I’m interested in health data exploration, analysis and predictive modelling using R
+- 🌱 Clinical data science from Maastricht University, Netherlands. Personal interest in machine learning algorithms.
+- 🌱 I’m currently learning master of epidemiology, University of Antwerp, Belgium
+- 💞️ I’m looking to collaborate on health predictive modelling, survival analysis and geospatial analysis projects
 - 📫 How to reach me: davidmoshi1@outlook.com
 - ⚡ Fun fact:80% of my time is spent on data cleaning and only 20% on analyzing it, data janitor might be a perfect title
 
